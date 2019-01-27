@@ -3,11 +3,10 @@ Web Developper
 
 # Create your first image using Java: 
 
-create the DockerFile containt the command build the image Docker.
+Create the DockerFile containt the command build the image Docker.
 
 **Create a new Java project:**
 
-Create a new Java project:
 ```sh
 mvn archetype:generate -DgroupId=org.examples.java -DartifactId=helloworld -DinteractiveMode=false
 ```
